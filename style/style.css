@@ -1,0 +1,25 @@
+body {
+  background-image: url(../images/galaxy.jpeg);
+  color: #ffffff;
+}
+.company {
+  margin: 50px;
+}
+.title {
+  text-align: center;
+}
+.big {
+  font-size: 6rem;
+  margin: 120px auto 100px;
+}
+input {
+  width: 250px;
+  height: 35px;
+}
+input::-webkit-input-placeholder {
+  font-size: 25px;
+}
+.btn {
+  background-color: #5b00b5;
+  color: #ffffff;
+}
